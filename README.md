@@ -1,7 +1,5 @@
 # Terminal-Fastfetch-design-
-# Terminal-Fastfetch-design-
-# Terminal-Fastfetch-design-
-# Terminal-Fastfetch-design-
+
 
 # Windows Terminal Setup: Oh My Posh + JetBrainsMono + Fastfetch
 
